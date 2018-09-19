@@ -1,8 +1,3 @@
-### WordPress版微信小程序 2.0 重构版
-
-作者：叶赫先生 Wechat ID: ryan_yuu
-
-
 ### 重构功能清单：
 
 1.重构首页内容列表的显示方式，分为：右图模式、大图模式、双图模式；
@@ -60,9 +55,7 @@
 
 https://github.com/iamxjb/winxin-app-watch-life.net
 
-
-### 技术支持网站：https://www.yeehee.cn
-
+技术支持：https://www.qiyuwg.com/4994.html
 
 ### 小程序配套wordpress插件：
 
