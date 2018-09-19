@@ -75,119 +75,19 @@ https://github.com/iamxjb/winxin-app-watch-life.net
 <a href="https://www.watch-life.net/wordpress/weixin-app-install.html" target="_blank" rel="noopener">WordPress版微信小程序安装使用说明</a>
 
 
-### 讨论微信群：
-
-由于微信群超过100人，无法再扫描二维码加入。如果你想加入，请先加我的微信：ryan_yuu ，我拉你入群。
-
-
-
-### 开源声明：
-
-1、本程序html转wxml的解析采用的是https://github.com/icindy/wxParse
-
-2.本程序有关es6-promise 部分代码参考 开源程序：https://github.com/cinoliu/-es6-promise
-在此对上述提供开源及创意表示致谢。
-### 更新历史：
-
-#### 2018年2月15日
-
-1.增加文章海报（分享微信朋友圈的卡片）功能。
-
-2.兼容个人主体小程序的功能完善
-
-3.文章分享加题图。
-
-4.首页导航，提供三种方式的跳转
-
-#### 2017年12月15日
-
-1.增加赞赏后发送模板消息。
-
-2.增加回复评论发送模板消息。
-
-3.调整评论和回复的显示方式及提交评论、回复发送方式。
-
-#### 2017年11月1日
-
-1.调整“热点”板块为“排行”板块，显示按评论数、浏览数、点攒数、赞赏数的文章排行。
-
-2.增加“我的”板块，显示我浏览、评论、点赞、赞赏过的文章。
-
-3、加入内链的web-view嵌入网页跳转。
-
-4、在关于中显示“赞赏”或“捐赠”人的头像，并致谢。
-
-
-#### 2017年9月16日
-1.增加点赞功能
-
-2.增加赞赏功能（微信支付）
-
-
-#### 2017年8月17日
-1.增加站内链接。
-
-2.增加猜你喜欢功能。
-
-3.增加热点文章功能。
-
-4、取消浏览记录功能。
-
-#### 2017年7月29日
-
-1.完善文章的评论，按评论时间对一级评论按时间先后显示，最新发表的显示在最上面。
-
-2.以嵌套的方式显示评论和回复，最多显示5层嵌套。
-
-3.增加评论的回复功能，可以针对4级评论（回复）进行回复。
-
-4.文章内容页加入一直没有引入的wxParse.wxss文件（弥补愚蠢的错误）。
-
-#### 2017年7月15日
-
-1.完善首页列表的缩略。调整为150*150的小图，需要配合wp-rest-api-for-app插件.
-
-2.去除侧滑菜单。增加专题分类，并完善搜索。
-
-3.完善评论及显示。
-
-4.优化程序性能，整理wxss，让程序代码更易懂和美观.
-
-5.修复获取微信头像bug，当头像如果是https地址的话，不强制转换成https。
-
-6.修复没有置顶文章，下拉刷新不显示列表的bug。
-
-7.为评论增加分页，提供分页刷新的功能。
-
-
-#### 日期：2017年6月6日
-
-内容：
-
-1.调整列表页的显示方式。
-
-2.增加搜索。
-
-3.首页增加轮播图片和缩略图。
-
-4.增加文章评论
-
-5.增加小程序分享
-
-
-#### 日期：2017年5月15日
-
-内容：
-
-1.在主页面，加入浮动按钮，用来打开侧滑导航菜单。
-
-2.增加侧滑导航菜单，菜单上包括页面及文章分类.侧滑菜单代码参考WechatSmallApps（https://github.com/jkgeekJack/WechatSmallApps）的代码修改。
-
-3.优化下拉刷新数据（分页）的性能。
-
-4.文章列表页添加发布时间。
-
-5.升级最新的微信小程序富文本解析组件wxParse（https://github.com/icindy/wxParse）
-
-
-"# WordPressMiniProgram" 
+<a href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=ds9psss5"><img src="https://www.qiyuwg.com/wp-content/uploads/2018/04/F001Nl1PmClh000Tfc8R.png"></a>
+	                                            <h2 class="title-article">最新版wordpress开发资讯微信小程序</h2>
+<p>小程序从去年开始火热起来，微信的轻应用一栏，大大小小的出现了各式各样的传统App的衍生品。很多大的App也开始发力布局，并想要抢先在这一块丰腴的蛋糕上，占有一席之地。</p>
+<p>那什么是小程序呢？</p>
+<p>什么是微信小程序？<strong>简单而言，它就是一种不需要下载安装即可使用的应用，它实现了应用的“触手可及”的梦想，用户扫一扫或者搜一下即可打开应用。也体现了“用完即走”的理念，用户不用关心是否安装了太多应用的问题。应用将无处不在，随时可用，但又无需安装卸载。</strong></p>
+<p>但是这个依托于第三方小程序应用平台生成的小程序终究是托管于第三方应用平台，<strong>所有的模板都是一模一样的，且自己没有任何的自主开发权限，想要修改一下版式、图标什么的都不行，</strong>实在是差强人意。</p>
+<p>那到底如何才能搭建（零基础创建）一款完全属于自己的微信小程序呢？</p>
+<p>功夫不负有心人，历经半个多月时间，我基于Github的一位大神的开源项目，结合公共开源的REST API接口，二次开发出<strong>一款完全属于自己的微信小程序</strong>，并且已经成功上线Beta版本，欢迎各位扫描下面的小程序二维码预览体验。</p>
+<p>&nbsp;</p>
+<p>演示：</p>
+<div id="attachment_4951" style="width: 268px" class="wp-caption alignnone"><img class="lazy lazy-hidden" layer-src="//www.qiyuwg.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.qiyuwg.com/wp-content/uploads/2018/08/gh_4e21d5c8563e_258.jpg" src="https://www.qiyuwg.com/wp-content/uploads/2018/08/gh_4e21d5c8563e_258.jpg" alt="《最新版wordpress开发资讯微信小程序》" /><noscript><img layer-src="https://www.qiyuwg.com/wp-content/uploads/2018/08/gh_4e21d5c8563e_258.jpg" src="https://www.qiyuwg.com/wp-content/uploads/2018/08/gh_4e21d5c8563e_258.jpg" alt="《最新版wordpress开发资讯微信小程序》" /></noscript></p>
+<p class="wp-caption-text">小程序</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img class="lazy lazy-hidden" layer-src="//www.qiyuwg.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.qiyuwg.com/wp-content/uploads/2018/09/IMG_3492.png" src="https://www.qiyuwg.com/wp-content/uploads/2018/09/IMG_3492.png" alt="《最新版wordpress开发资讯微信小程序》" /><noscript><img layer-src="https://www.qiyuwg.com/wp-content/uploads/2018/09/IMG_3492.png" src="https://www.qiyuwg.com/wp-content/uploads/2018/09/IMG_3492.png" alt="《最新版wordpress开发资讯微信小程序》" /></noscript> 
